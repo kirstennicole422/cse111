@@ -1,0 +1,53 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2024-02-14      1.0     Final testing/modifications with running and test functions
+2024-02-14      0.5     Made sure functions connected to each other and all
+                        were used
+2024-02-14      0.5     Tested unit conversion function and modified
+2024-02-14      1.0     Modified unit conversion to take compound list of units
+2024-02-14      1.0     Discussed how to implement unit conversion function. 
+                        Decided on passing in a list and using conditional 
+                        statements
+2024-02-13      0.25    Learned more about .zip() to iterate through lists        
+2024-02-13      1.5     Adding units to csv and reading into 2 compound lists
+                        (way more complicated than I expected)
+2024-02-13      0.5     Changing program to use list
+2024-02-13      0.5     Created/imported/read CSV to list
+2024-02-13      1.0     Added unit conversion function
+2024-02-13      0.25    More test functions
+2024-02-13      0.25    Learned how to check if string can be converted to 
+                        float with try/except and implemented
+2024-02-10      0.25    Discussing program with classmate- what would be most
+                        user-friendly:
+2024-02-10      0.5     Writing test functions
+2024-02-10      1.0     Testing functions and fixing return issues
+2024-02-10      1.0     Creating/defining functions that determine which 
+                        variable is missing and solve for it
+2024-02-08      1.0     Refresher on the physics equations I am planning to use
+2024-02-08      0.5     Converting formulas and rough outline of functions 
+=============Example====================
+
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.

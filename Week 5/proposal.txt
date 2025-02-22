@@ -1,0 +1,55 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+The title of my program is Physics Equations Calculator
+
+2. What real-world problem will your program address or help to solve?
+This will help simplify solving different physics problems. I am planning to 
+start with kinematic equations and have the program import a csv and equation 
+type to solve for.
+If I still have additional time, I am hoping to have my program identify what 
+variable is missing and solve for it. If I still have additional time, I 
+will add in additional equations.
+
+3. What will you learn from developing this program?
+I will strengthen my knowledge of physics concepts as well as continue 
+practicing reading from files. I will learn how to apply the skills I've 
+learned in this course to real world problems.
+
+4. What Python modules will your program use?
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+My program will use csv and math.
+
+5. List the names of functions you will need?
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+define_equation_type
+calculate_displacement
+calculate_velocity
+calculate_acceleration
+calculate_time
+
+6. List the names of the test functions you will write.
+test_define_equation_type
+test_calculate_time
